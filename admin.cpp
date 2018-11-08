@@ -106,7 +106,7 @@ int main()
                     if(in)
                     {
                         system("clear");
-                        cout << "Congrats "<<person <<" are in now, you can add your vehicle" << endl;
+                        cout << "Congrats "<< person <<" you are in now, you can add your vehicle" << endl;
                         usleep(2000000);
                         cout << "Which vehicle do you want to put on rent" << endl;
                         cout << "1)Car" << endl << "2)Motor Bike" << endl << "3)Bike" << endl;
@@ -117,6 +117,8 @@ int main()
                             switch(veh)
                             {
                                 case 1:{
+                                            cout << "Enter the following values space seperated: " << endl;
+                                            usleep(500000);
                                             cout << "Enter car name,model,car number,type(suv/normal),fuel type,no.of seats,mileage in km/l,base fare,fare per day" << endl;
                                             string name,num,type,ftype,model;
                                             int numseats;
@@ -134,6 +136,8 @@ int main()
                                         }
                                         
                                 case 2: {
+                                            cout << "Enter the following values space seperated: " << endl;
+                                            usleep(500000);
                                             cout << "Enter  motorbike name,model,motorbike number,type(sports/normal),fuel type,no.of seats,mileage in km/l,base fare,fare per day" << endl;
                                             string name,num,type,ftype,model;
                                             int numseats;
@@ -151,6 +155,8 @@ int main()
                                         }
                                         
                                 case 3: {
+                                            cout << "Enter the following values space seperated: " << endl;
+                                            usleep(500000);
                                             cout << "Enter  bike name,model,bike number,type(geared/normal),base fare,fare per day" << endl;
                                             string name,num,model,type;
                                             double bfare,dfare;
