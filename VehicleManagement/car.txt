@@ -1,2 +1,4 @@
 alto LX ka41pr5674 normal petrol 5 15 100 50
 wagonr vxi ka41pr3452 normal petrol 4 23 100 120
+wagonR lxvi 12345 suv petrol 5 13 500 200
+wagonR lxvi suv petrol 5 13 1000 200 900

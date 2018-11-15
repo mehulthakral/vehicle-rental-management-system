@@ -1,0 +1,12 @@
+Car
+wagonR lxvi suv petrol 5 13 1000 200 900
+Motorbike
+as as dwe dw qww 3 2 1 2
+Motorbike
+as as as as as 0 -9.25596e+61 -9.25596e+61 -9.25596e+61
+Motorbike
+     0 -9.25596e+61 -9.25596e+61 -9.25596e+61
+Motorbike
+     0 -9.25596e+61 -9.25596e+61 -9.25596e+61
+Motorbike
+     0 -9.25596e+61 -9.25596e+61 -9.25596e+61
