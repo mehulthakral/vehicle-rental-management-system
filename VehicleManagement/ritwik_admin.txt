@@ -5,8 +5,4 @@ as as dwe dw qww 3 2 1 2
 Motorbike
 as as as as as 0 -9.25596e+61 -9.25596e+61 -9.25596e+61
 Motorbike
-     0 -9.25596e+61 -9.25596e+61 -9.25596e+61
-Motorbike
-     0 -9.25596e+61 -9.25596e+61 -9.25596e+61
-Motorbike
-     0 -9.25596e+61 -9.25596e+61 -9.25596e+61
+kawasaki 12b 12345 sports petrol 2 10 1000 100

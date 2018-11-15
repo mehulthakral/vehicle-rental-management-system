@@ -1,0 +1,24 @@
+Car
+wagonR lxvi suv petrol 5 13 1000 200 900
+Motorbike
+kawasaki 12b 12345 sports petrol 2 10 1000 100
+Motorbike
+kawasaki 12b 12345 sports petrol 2 10 1000 100
+Car
+wagonR lxvi suv petrol 5 13 1000 200 900
+Car
+wagonR lxvi suv petrol 5 13 1000 200 900
+Car
+wagonR lxvi suv petrol 5 13 1000 200 900
+Car
+wagonR lxvi suv petrol 5 13 1000 200 900
+Car
+wagonR lxvi suv petrol 5 13 1000 200 900
+Car
+wagonR lxvi suv petrol 5 13 1000 200 900
+Car
+wagonR lxvi suv petrol 5 13 1000 200 900
+Bike
+simple a 34 geared 20 50
+Car
+alto LX ka41pr5674 normal petrol 5 15 100 50
