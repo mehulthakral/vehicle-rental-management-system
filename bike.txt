@@ -1,1 +1,2 @@
 simple a 34 geared 20 50
+mybike gh 23 normal 30 70
