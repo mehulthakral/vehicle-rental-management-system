@@ -30,3 +30,8 @@ Bike
 simple a 34 geared 20 50 20 1020
 Motorbike
 kawasaki 12b 12345 sports petrol 2 10 1000 100 20 3000
+Car
+abc bac 12345 suv petrol 5 10 1000 200 30 7000
+Car
+wagonr vxi ka41pr3452 normal petrol 4 23 100 120 20 2500
+Car

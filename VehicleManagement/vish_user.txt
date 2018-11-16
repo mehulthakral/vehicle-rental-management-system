@@ -1,0 +1,6 @@
+Car
+civic 1.8 190 normal petrol 5 6 2000 500 200 102000
+Car
+abc bac 12345 suv petrol 5 10 1000 200 0 1000
+Bike
+simple a 34 geared 20 50 10 520

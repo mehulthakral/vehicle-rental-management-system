@@ -1,1 +1,2 @@
 kawasaki 12b 12345 sports petrol 2 10 1000 100
+bmw s100rr 6779 sports petrol 1 4 20000 4000

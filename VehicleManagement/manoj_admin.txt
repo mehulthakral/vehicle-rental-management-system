@@ -1,0 +1,4 @@
+Car
+civic 1.8 190 normal petrol 5 6 2000 500
+Motorbike
+bmw s100rr 6779 sports petrol 1 4 20000 4000
