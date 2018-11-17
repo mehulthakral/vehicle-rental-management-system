@@ -1,0 +1,14 @@
+Car
+wagonR lxvi suv petrol 5 13 1000 200 900
+Motorbike
+as as dwe dw qww 3 2 1 2
+Motorbike
+as as as as as 0 -9.25596e+61 -9.25596e+61 -9.25596e+61
+Motorbike
+kawasaki 12b 12345 sports petrol 2 10 1000 100
+Car
+abc bac 12345 suv petrol 5 10 1000 200
+Motorbike
+suzuki a 12345 sports petrol 2 10 500 100
+Bike
+xyz abc 12345 geared 1000 100

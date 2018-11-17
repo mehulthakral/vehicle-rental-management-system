@@ -1,0 +1,5 @@
+alto LX ka41pr5674 normal petrol 5 15 100 50
+wagonr vxi ka41pr3452 normal petrol 4 23 100 120
+civic 1.8 190 normal petrol 5 6 2000 500
+abc bac 12345 suv petrol 5 10 1000 200
+verna sx 6779 sedan petrol 4 10 800000 5000
